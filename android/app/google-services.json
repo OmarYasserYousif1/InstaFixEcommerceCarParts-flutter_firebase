@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019504455766",
+    "project_id": "instafix-mobile-app",
+    "storage_bucket": "instafix-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019504455766:android:aefd7efa3922fbe1404bf7",
+        "android_client_info": {
+          "package_name": "com.example.carservicesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019504455766-fkpvs6jdg20lm55ud5lc28m9ahiuqkm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ3qnMWvD4JXkmjUZMAuQbWeBPOCnC-NU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019504455766-fkpvs6jdg20lm55ud5lc28m9ahiuqkm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
